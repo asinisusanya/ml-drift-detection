@@ -1,0 +1,28 @@
+drift_level,feature,method,statistic,p_value,drift_detected
+mild,Age,KS Test,0.0975,0.0009886460460131023,True
+mild,Job,KS Test,0.0,1.0,False
+mild,Credit amount,KS Test,0.0375,0.6274825620995537,False
+mild,Duration,KS Test,0.185,2.2327072529452688e-12,True
+mild,Sex,PSI,0.0,,False
+mild,Housing,PSI,0.0,,False
+mild,Saving accounts,PSI,0.0021258115001488447,,False
+mild,Checking account,PSI,0.0,,False
+mild,Purpose,PSI,0.0,,False
+moderate,Age,KS Test,0.19125,3.330375807752024e-13,True
+moderate,Job,KS Test,0.0,1.0,False
+moderate,Credit amount,KS Test,0.10125,0.0005437488317857487,True
+moderate,Duration,KS Test,0.20875,1.1448038363280366e-15,True
+moderate,Sex,PSI,0.0,,False
+moderate,Housing,PSI,0.0,,False
+moderate,Saving accounts,PSI,0.013302394457236572,,False
+moderate,Checking account,PSI,0.028250655663013335,,False
+moderate,Purpose,PSI,0.0,,False
+severe,Age,KS Test,0.33625,1.856495754065204e-40,True
+severe,Job,KS Test,0.0,1.0,False
+severe,Credit amount,KS Test,0.16,2.365727644228223e-09,True
+severe,Duration,KS Test,0.25875,6.136780404621144e-24,True
+severe,Sex,PSI,0.0,,False
+severe,Housing,PSI,0.0,,False
+severe,Saving accounts,PSI,0.07770169576506267,,False
+severe,Checking account,PSI,0.10286925491450746,,False
+severe,Purpose,PSI,0.0,,False
